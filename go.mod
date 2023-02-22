@@ -1,3 +1,3 @@
-module hazakuraid/fone
+module xarantolus/filtrite
 
 go 1.15

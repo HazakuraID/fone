@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 	"unicode"
-	"hazakura/fone/util"
+	"xarantolus/filtrite/util"
 )
 
 const (
