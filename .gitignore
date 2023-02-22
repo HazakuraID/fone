@@ -1,0 +1,8 @@
+filtrite
+fone
+tmp/
+.vscode
+deps/
+logs/
+dist/
+release.md
